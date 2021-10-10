@@ -1,0 +1,17 @@
+C:\Users\jacks\source\repos\Text Editor\Text Editor\bin\Debug\netcoreapp3.1\Text Editor.exe
+C:\Users\jacks\source\repos\Text Editor\Text Editor\bin\Debug\netcoreapp3.1\Text Editor.deps.json
+C:\Users\jacks\source\repos\Text Editor\Text Editor\bin\Debug\netcoreapp3.1\Text Editor.runtimeconfig.json
+C:\Users\jacks\source\repos\Text Editor\Text Editor\bin\Debug\netcoreapp3.1\Text Editor.runtimeconfig.dev.json
+C:\Users\jacks\source\repos\Text Editor\Text Editor\bin\Debug\netcoreapp3.1\Text Editor.dll
+C:\Users\jacks\source\repos\Text Editor\Text Editor\bin\Debug\netcoreapp3.1\Text Editor.pdb
+C:\Users\jacks\source\repos\Text Editor\Text Editor\obj\Debug\netcoreapp3.1\Text Editor.csproj.AssemblyReference.cache
+C:\Users\jacks\source\repos\Text Editor\Text Editor\obj\Debug\netcoreapp3.1\Text_Editor.Form1.resources
+C:\Users\jacks\source\repos\Text Editor\Text Editor\obj\Debug\netcoreapp3.1\Text Editor.csproj.GenerateResource.cache
+C:\Users\jacks\source\repos\Text Editor\Text Editor\obj\Debug\netcoreapp3.1\Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\source\repos\Text Editor\Text Editor\obj\Debug\netcoreapp3.1\Text Editor.AssemblyInfoInputs.cache
+C:\Users\jacks\source\repos\Text Editor\Text Editor\obj\Debug\netcoreapp3.1\Text Editor.AssemblyInfo.cs
+C:\Users\jacks\source\repos\Text Editor\Text Editor\obj\Debug\netcoreapp3.1\Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\jacks\source\repos\Text Editor\Text Editor\obj\Debug\netcoreapp3.1\Text Editor.dll
+C:\Users\jacks\source\repos\Text Editor\Text Editor\obj\Debug\netcoreapp3.1\Text Editor.pdb
+C:\Users\jacks\source\repos\Text Editor\Text Editor\obj\Debug\netcoreapp3.1\Text Editor.genruntimeconfig.cache
+C:\Users\jacks\source\repos\Text Editor\Text Editor\obj\Debug\netcoreapp3.1\Text_Editor.Properties.Resources.resources
